@@ -2,8 +2,8 @@
 
 Welcome to OptiFine, a web application that demonstrates the power of hyperparameter tuning using Scikit-learn's GridSearchCV. OptiFine allows you to optimize your machine learning models by fine-tuning their hyperparameters to achieve peak performance.
 
-<img src="./app-demo.png" alt="drawing" width="300"/>
-<img src="./app-demo2.png" alt="drawing" width="300"/>
+<img src="./app-demo.png" alt="drawing" width="500"/>
+<img src="./app-demo2.png" alt="drawing" width="500"/>
 
 
 ## Features
@@ -20,7 +20,7 @@ Welcome to OptiFine, a web application that demonstrates the power of hyperparam
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/optifine.git
+git clone https://github.com/MahtabRanjbar/OptiFine-ml-app.git
 ```
 
 2. Install the required dependencies:
